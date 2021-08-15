@@ -1,0 +1,48 @@
+Machine Learning:
+
+-Data: collect relavent data
+-Design the process
+-coding
+-testing
+
+Supervised - Past data (labled), output defined
+Unsupervised - No past data, identify the similar data 
+
+-----------------------------------------------
+
+Introduction
+- experience
+- current roll
+- academic profile
+- jobs
+- current job team size
+- day to day activities
+
+Automation
+- project scope
+- tools used
+- framework
+
+Test Manager
+- Test plan
+- Test strategy
+- managing the team
+- review the documents
+- team tracking 
+- bug tracking
+- RTM, status, bug reports
+https://www.guru99.com/an-expert-view-on-test-estimation.html#1
+
+998626501379
+
+hdfc 3.5
+sbi 6.2
+cash 5.3
+akhil 3.1
+ -----------
+      18.1
+
+10th
+57561
+57561
+20206710
